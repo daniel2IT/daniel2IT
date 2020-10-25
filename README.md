@@ -1,6 +1,7 @@
  <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
   <img src="https://pronouns.vercel.app/!!!%C2%A0Howdy%20Ho%20!!!?flag=polyamorous?gradient=kye%20meh" width="256" height="64" alt="My pronouns are !!! Howdy Ho !!!">
-</a>  👋
+</a> 
+
 ### Here is What I'm Working On!
 
 - 🔭 I’m currently working on ASP.NET MVC
