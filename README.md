@@ -1,7 +1,7 @@
 ### Howdy Ho !!!  👋
 ### Here is What I'm Working On!
 
-- 🔭 I’m currently working on ------------------------------
+- 🔭 I’m currently working on ASP.NET MVC
 - 🌱 I’m currently learning .Net
 - 👯 I’m looking to collaborate on Asp .Net
 - 🤔 I’m looking for help with finding dream internships!
@@ -11,4 +11,4 @@
 - ⚡ Fun fact: The first job i wanted when i was a little kid ----> hacker
 
 
-#### My new projects will be here soon
+## My new projects will be here soon
