@@ -9,3 +9,6 @@
 - 📫 How to reach me: [Linkedin_Profile](https://www.linkedin.com/in/danielvaskevic)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The first job i wanted when i was a little kid ----> hacker
+
+
+#### My new projects will be here soon
