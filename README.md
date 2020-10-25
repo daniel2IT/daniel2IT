@@ -1,9 +1,6 @@
 ### Howdy Ho !!!  👋
 ### Here is What I'm Working On!
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ------------------------------
 - 🌱 I’m currently learning .Net
 - 👯 I’m looking to collaborate on Asp .Net
