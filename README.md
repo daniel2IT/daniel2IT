@@ -14,7 +14,7 @@
 </p>
 <h1 align="center"> Here is What I'm Working On! </h1>
 <ul align="center">
-   <li font-size:33px>🔭 I’m currently working on ASP.NET MVC ✅  </li>
+   <li font-size="33px">🔭 I’m currently working on ASP.NET MVC ✅  </li>
    <li>
    <li>🌱 I’m currently learning .Net ✅ </li>
    <li>
