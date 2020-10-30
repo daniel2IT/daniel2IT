@@ -4,6 +4,7 @@
 
 ---
 ![Test](ezgDaniel.gif)
+
 ---
 
 ### Here is What I'm Working On!
@@ -15,7 +16,7 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Linkedin_Profile](https://www.linkedin.com/in/danielvaskevic)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: The first job i wanted when i was a little kid ----> hacker
+- ⚡ Fun fact: The first job i wanted when i was a little kid ----> hacker.
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
@@ -24,16 +25,18 @@
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
+---
+---
+---
+
 
 # &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595;
----
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
 [![alt text][6.1]][6]
----
 # &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593;
 
 
