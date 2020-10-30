@@ -17,9 +17,14 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The first job i wanted when i was a little kid ----> hacker
 
-
-## My new projects will be here soon
-# &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595;
+# &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595;
+[1.1]: http://i.imgur.com/tXSoThF.png (https://daniel2it.github.io/Portfolio/)
+[2.1]: http://i.imgur.com/P3YfQoD.png (https://daniel2it.github.io/Portfolio/)
+[3.1]: http://i.imgur.com/yCsTjba.png (https://daniel2it.github.io/Portfolio/)
+[4.1]: http://i.imgur.com/YckIOms.png (https://daniel2it.github.io/Portfolio/)
+[5.1]: http://i.imgur.com/1AGmwO3.png (https://daniel2it.github.io/Portfolio/)
+[6.1]: http://i.imgur.com/0o48UoR.png (https://daniel2it.github.io/Portfolio/)
+# &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593;
 
 ```html
 <!DOCTYPE html>
@@ -34,5 +39,7 @@
 </body>
 </html>
 ```
+## My new projects will be here soon
+# &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595;
 
 
