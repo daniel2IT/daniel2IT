@@ -40,7 +40,7 @@
 
 <div align="center">
  &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595;<br>
-   <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/tXSoThF.png" alt="asdasdasdas" /></a>
+   <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/tXSoThF.png" alt="asdasdasdas" color:blue/></a>
    <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/P3YfQoD.png" /></a>
    <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/yCsTjba.png" /></a>
    <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/YckIOms.png" /></a>
