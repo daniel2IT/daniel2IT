@@ -33,14 +33,13 @@
    <li>
 </ul>
 
-<p align="center">
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-</p>
+
 
 ---
 ---
@@ -48,6 +47,13 @@
 
 
 # &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595;
+<div style="text-align:center">
+   <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/tXSoThF.png" /></a>
+
+</div>
+
+
+
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
