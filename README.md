@@ -48,8 +48,8 @@
    <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/0o48UoR.png" /></a><br>
  &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593;
 </div>
-.center{
-img:hover{
+#center{
+img:hover:after{
 display:none;}
 }
 
