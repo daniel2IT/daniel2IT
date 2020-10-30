@@ -1,4 +1,4 @@
-<a href="https://pronouns.vercel.app" title="">
+<a href="https://pronouns.vercel.app" title="" align="center>
   <img src="https://pronouns.vercel.app/!!! Howdy Ho !!!?gradient=grapefruit%20sunset" width="256" height="64" alt="!!! Howdy Ho !!!">
 </a>
 
