@@ -48,7 +48,13 @@
 <div align="center">
  &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595;<br>
    <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/tXSoThF.png" /></a>
-
+   <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/tXSoThF.png" /></a>
+   <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/tXSoThF.png" /></a>
+   <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/tXSoThF.png" /></a>
+   <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/tXSoThF.png" /></a>
+   <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/tXSoThF.png" /></a>
+   <br>
+ &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593;
 </div>
 
 
@@ -59,7 +65,7 @@
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
 [![alt text][6.1]][6]
-# &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593;
+
 
 [1]: https://daniel2it.github.io/Portfolio/
 [2]: https://daniel2it.github.io/Portfolio/
