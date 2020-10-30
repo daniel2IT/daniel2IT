@@ -3,6 +3,8 @@
 </a>
 
 ---
+![Test](ezgDaniel.gif)
+---
 
 ### Here is What I'm Working On!
 
