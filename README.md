@@ -13,7 +13,6 @@
    <img width="100%" src="https://www.flaticon.com/svg/static/icons/svg/2463/2463510.svg">
 </p>
 <h1 align="center"> Here is What I'm Working On! </h1>
-<p>
 <ul align="center">
    <li>🔭 I’m currently working on ASP.NET MVC ✅  </li>
    <li>
@@ -32,7 +31,7 @@
    <li>⚡ Fun fact: The first job i wanted when i was a little kid ----> hacker. ✅ </li>
    <li>
 </ul>
-</p>
+
 
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
