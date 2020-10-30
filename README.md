@@ -9,14 +9,18 @@
 
 ### Here is What I'm Working On!
 
-- 🔭 I’m currently working on ASP.NET MVC
-- 🌱 I’m currently learning .Net
-- 👯 I’m looking to collaborate on Asp .Net
-- 🤔 I’m looking for help with finding dream internships!
-- 💬 Ask me about Anything
-- 📫 How to reach me: [Linkedin_Profile](https://www.linkedin.com/in/danielvaskevic)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: The first job i wanted when i was a little kid ----> hacker.
+- 🔭 I’m currently working on ASP.NET MVC ✅
+- 🌱 I’m currently learning .Net ✅
+- 👯 I’m looking to collaborate on Asp .Net ✅
+- 🤔 I’m looking for help with finding dream internships! ✅
+- 💬 Ask me about Anything ✅
+- 📫 How to reach me: [Linkedin_Profile](https://www.linkedin.com/in/danielvaskevic) ✅
+- 😄 Pronouns: He/Him ✅
+- ⚡ Fun fact: The first job i wanted when i was a little kid ----> hacker. ✅
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/eucalyp" title="Eucalyp">Eucalyp</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
@@ -61,9 +65,8 @@
 </body>
 </html>
 ```
-✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
+
 ## My new projects will be here soon
-✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
 # &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595;
 
 
