@@ -5,6 +5,14 @@
 </p>
 
 ---
+
+<p align="center">
+   <a href="https://daniel2it.github.io/Portfolio/" title="">
+   <img src="ezgDaniel.gif" width="100%"">
+   </a>
+</p>
+
+
 ![Test](ezgDaniel.gif)
 
 ---
