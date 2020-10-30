@@ -45,9 +45,8 @@
 ---
 ---
 
-
-# &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595;
 <div align="center">
+ &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595;
    <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/tXSoThF.png" /></a>
 
 </div>
