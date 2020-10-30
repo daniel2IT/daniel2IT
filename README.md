@@ -19,7 +19,7 @@
 - ⚡ Fun fact: The first job i wanted when i was a little kid ----> hacker. ✅
 
 <p align="center">
-  <img width="100%" src="https://lh3.googleusercontent.com/m0KwMQdPSIBoeEd_QW96zX7RpTio1s4R4QFkiz8_jF-2x947oYwoY7g39Z3WVzahT5zx5xQ=s85">
+  <img width="100%" src="https://www.flaticon.com/svg/static/icons/svg/2463/2463510.svg">
 </p>
 
 
