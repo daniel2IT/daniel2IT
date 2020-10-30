@@ -10,49 +10,6 @@
 ---
 
 
-   <head>
-   .p{
-       font-size: 50px;
-   }
-   </head>
-   <body>
-     <p align="center">
-   <img width="100%" src="https://www.flaticon.com/svg/static/icons/svg/2463/2463510.svg">
-</p>
-<h1 align="center"> Here is What I'm Working On! </h1>
-<ul align="center">
-   <li>🔭 I’m currently working on ASP.NET MVC ✅  </li>
-   <li>
-   <li>🌱 I’m currently learning .Net ✅ </li>
-   <li>
-   <li>👯 I’m looking to collaborate on Asp .Net ✅ </li>
-   <li>
-   <li>🤔 I’m looking for help with finding dream internships! ✅ </li>
-   <li>
-   <li>💬 Ask me about Anything ✅ </li>
-   <li>
-   <li>📫 How to reach me: [Linkedin_Profile](https://www.linkedin.com/in/danielvaskevic) ✅ </li>
-   <li>
-   <li>😄 Pronouns: He/Him ✅ </li>
-   <li>
-   <li>⚡ Fun fact: The first job i wanted when i was a little kid ----> hacker. ✅ </li>
-   <li>
-</ul>
-   </body>
-</html>
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p align="center">
    <img width="100%" src="https://www.flaticon.com/svg/static/icons/svg/2463/2463510.svg">
 </p>
