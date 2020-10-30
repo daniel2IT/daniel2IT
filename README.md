@@ -38,7 +38,7 @@
    <li>
    <li>😄 Pronouns: He/Him ✅ </li>
    <li>
-   <li>⚡ Fun fact: The first job i wanted when i was a little kid ----> hacker. ✅ </li>
+   <li>⚡ Fun fact: The first job i wanted when i was a little kid ----> HACKER. ✅ </li>
    <li>
 </ul>
 
