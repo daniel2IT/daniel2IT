@@ -33,48 +33,24 @@
    <li>
 </ul>
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
 
 ---
 ---
 ---
 
 <div align="center">
- &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595;<br>
+ &#8595; &#8595; &#8595; &#8595;  &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595;<br>
    <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/tXSoThF.png" /></a>
-   <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/tXSoThF.png" /></a>
-   <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/tXSoThF.png" /></a>
-   <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/tXSoThF.png" /></a>
-   <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/tXSoThF.png" /></a>
-   <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/tXSoThF.png" /></a>
+   <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/P3YfQoD.png" /></a>
+   <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/yCsTjba.png" /></a>
+   <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/YckIOms.png" /></a>
+   <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/1AGmwO3.png" /></a>
+   <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/0o48UoR.png" /></a>
    <br>
- &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593;
+ &#8593; &#8593; &#8593; &#8593;  &#8595; &#8595; &#8595; &#8595; &#8593; &#8593; &#8593; &#8593;
 </div>
 
 
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
-
-
-[1]: https://daniel2it.github.io/Portfolio/
-[2]: https://daniel2it.github.io/Portfolio/
-[3]: https://daniel2it.github.io/Portfolio/
-[4]: https://daniel2it.github.io/Portfolio/
-[5]: https://daniel2it.github.io/Portfolio/
-[6]: https://daniel2it.github.io/Portfolio/
-    
-    
 ```html
 <!DOCTYPE html>
 <html lang="en">
