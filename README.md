@@ -1,8 +1,7 @@
 <p align="center">
-<a href="https://pronouns.vercel.app" title="">
-  <img src="https://pronouns.vercel.app/!!! Howdy Ho !!!?gradient=grapefruit%20sunset" width="100%" height="64" alt="!!! Howdy Ho !!!">
-</a>
-
+   <a href="https://pronouns.vercel.app" title="">
+   <img src="https://pronouns.vercel.app/!!! Howdy Ho !!!?gradient=grapefruit%20sunset" width="100%" height="64" alt="!!! Howdy Ho !!!">
+   </a>
 </p>
 
 ---
@@ -11,23 +10,29 @@
 ---
 
 <p align="center">
-  <img width="100%" src="https://www.flaticon.com/svg/static/icons/svg/2463/2463510.svg">
+   <img width="100%" src="https://www.flaticon.com/svg/static/icons/svg/2463/2463510.svg">
 </p>
-
-
 <h1 align="center"> Here is What I'm Working On! </h1>
-	<p>
-	<ul align="center">
-	   <li> -🔭 I’m currently working on ASP.NET MVC ✅  </li>  <li>
-	  <li>🌱 I’m currently learning .Net ✅ </li>  <li>
-	   <li>-👯 I’m looking to collaborate on Asp .Net ✅ </li>  <li>
-	  <li>-🤔 I’m looking for help with finding dream internships! ✅ </li>  <li>
-	 <li>-💬 Ask me about Anything ✅ </li>   <li>
-	  <li>-📫 How to reach me: [Linkedin_Profile](https://www.linkedin.com/in/danielvaskevic) ✅ </li>  <li>
-	  <li>-😄 Pronouns: He/Him ✅ </li>  <li>
-	 <li> -⚡ Fun fact: The first job i wanted when i was a little kid ----> hacker. ✅ </li>  <li>
-	</ul>
-	</p>
+<p>
+<ul align="center">
+   <li>🔭 I’m currently working on ASP.NET MVC ✅  </li>
+   <li>
+   <li>🌱 I’m currently learning .Net ✅ </li>
+   <li>
+   <li>👯 I’m looking to collaborate on Asp .Net ✅ </li>
+   <li>
+   <li>🤔 I’m looking for help with finding dream internships! ✅ </li>
+   <li>
+   <li>💬 Ask me about Anything ✅ </li>
+   <li>
+   <li>📫 How to reach me: [Linkedin_Profile](https://www.linkedin.com/in/danielvaskevic) ✅ </li>
+   <li>
+   <li>😄 Pronouns: He/Him ✅ </li>
+   <li>
+   <li>⚡ Fun fact: The first job i wanted when i was a little kid ----> hacker. ✅ </li>
+   <li>
+</ul>
+</p>
 
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
@@ -52,26 +57,25 @@
 [![alt text][6.1]][6]
 # &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593;
 
-
-
- [1]: https://daniel2it.github.io/Portfolio/
-    [2]: https://daniel2it.github.io/Portfolio/
-    [3]: https://daniel2it.github.io/Portfolio/
-    [4]: https://daniel2it.github.io/Portfolio/
-    [5]: https://daniel2it.github.io/Portfolio/
-    [6]: https://daniel2it.github.io/Portfolio/
+[1]: https://daniel2it.github.io/Portfolio/
+[2]: https://daniel2it.github.io/Portfolio/
+[3]: https://daniel2it.github.io/Portfolio/
+[4]: https://daniel2it.github.io/Portfolio/
+[5]: https://daniel2it.github.io/Portfolio/
+[6]: https://daniel2it.github.io/Portfolio/
+    
     
 ```html
 <!DOCTYPE html>
 <html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Greetings</title>
-</head>
-<body>
-	<h1> Welcome My Friend </h1>
-</body>
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Greetings</title>
+   </head>
+   <body>
+      <h1> Welcome My Friend </h1>
+   </body>
 </html>
 ```
 
