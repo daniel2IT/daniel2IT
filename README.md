@@ -1,4 +1,4 @@
-<p align="center" font-size: 40px>
+<p align="center">
    <a href="https://pronouns.vercel.app" title="">
    <img src="https://pronouns.vercel.app/!!! Howdy Ho !!!?gradient=grapefruit%20sunset" width="100%" height="64" alt="!!! Howdy Ho !!!">
    </a>
@@ -13,7 +13,7 @@
    <img width="100%" src="https://www.flaticon.com/svg/static/icons/svg/2463/2463510.svg">
 </p>
 <h1 align="center"> Here is What I'm Working On! </h1>
-<ul align="center">
+<ul align="center" font-size:"40px">
    <li>🔭 I’m currently working on ASP.NET MVC ✅  </li>
    <li>
    <li>🌱 I’m currently learning .Net ✅ </li>
