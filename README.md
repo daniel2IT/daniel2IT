@@ -3,6 +3,7 @@
   <img src="https://pronouns.vercel.app/!!! Howdy Ho !!!?gradient=grapefruit%20sunset" width="100%" height="64" alt="!!! Howdy Ho !!!">
 </a>
 
+</p>
 
 ---
 ![Test](ezgDaniel.gif)
@@ -13,6 +14,7 @@
   <img width="100%" src="https://www.flaticon.com/svg/static/icons/svg/2463/2463510.svg">
 </p>
 
+<p align="center">
 ### Here is What I'm Working On!
 
 - 🔭 I’m currently working on ASP.NET MVC ✅
@@ -31,6 +33,8 @@
 [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+</p>
 
 ---
 ---
@@ -73,4 +77,3 @@
 # &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595;
 
 
-</p>
