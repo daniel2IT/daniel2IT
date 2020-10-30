@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://daniel2it.github.io/Portfolio/" title="">
+   <a href="https://daniel2it.github.io/Portfolio/" title="Click On ME">
    <img src="https://pronouns.vercel.app/!!! Howdy Ho !!!?gradient=grapefruit%20sunset" width="100%" height="64" alt="!!! Howdy Ho !!!">
    </a>
 </p>
@@ -7,13 +7,10 @@
 ---
 
 <p align="center">
-   <a href="https://daniel2it.github.io/Portfolio/" title="">
+   <a href="https://daniel2it.github.io/Portfolio/" title="Click On ME">
    <img src="ezgDaniel.gif" width="100%"">
    </a>
 </p>
-
-
-![Test](ezgDaniel.gif)
 
 ---
 
