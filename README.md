@@ -7,6 +7,10 @@
 
 ---
 
+<p align="center">
+  <img width="100%" src="https://www.flaticon.com/svg/static/icons/svg/2463/2463510.svg">
+</p>
+
 ### Here is What I'm Working On!
 
 - 🔭 I’m currently working on ASP.NET MVC ✅
@@ -17,10 +21,6 @@
 - 📫 How to reach me: [Linkedin_Profile](https://www.linkedin.com/in/danielvaskevic) ✅
 - 😄 Pronouns: He/Him ✅
 - ⚡ Fun fact: The first job i wanted when i was a little kid ----> hacker. ✅
-
-<p align="center">
-  <img width="100%" src="https://www.flaticon.com/svg/static/icons/svg/2463/2463510.svg">
-</p>
 
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
