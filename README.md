@@ -47,7 +47,7 @@
 
 
 # &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595;
-<div style="text-align:center">
+<div align="center">
    <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/tXSoThF.png" /></a>
 
 </div>
