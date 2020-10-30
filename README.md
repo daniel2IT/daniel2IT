@@ -18,7 +18,7 @@
 ### Here is What I'm Working On!
 </p>
 	<h1 align="center"> -🔭 I’m currently working on ASP.NET MVC ✅ </h1>
-	
+	<p>
 	<ul align="center">
 	  <li>🌱 I’m currently learning .Net ✅ </li>
 	   <li>-👯 I’m looking to collaborate on Asp .Net ✅ </li>
@@ -28,7 +28,7 @@
 	  <li>-😄 Pronouns: He/Him ✅ </li>
 	 <li> -⚡ Fun fact: The first job i wanted when i was a little kid ----> hacker. ✅ </li>
 	</ul>
-	
+	</p>
 
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
