@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://pronouns.vercel.app" title="">
-  <img src="https://pronouns.vercel.app/!!! Howdy Ho !!!?gradient=grapefruit%20sunset" width="400" height="64" alt="!!! Howdy Ho !!!">
+  <img src="https://pronouns.vercel.app/!!! Howdy Ho !!!?gradient=grapefruit%20sunset" width="400px" height="64" alt="!!! Howdy Ho !!!">
 </a>
 </p>
 
