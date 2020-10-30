@@ -11,13 +11,17 @@
    <img src="ezgDaniel.gif" width="100%"">
    </a>
 </p>
+                                         
+---
+
+<p align="center">
+   <a href="https://daniel2it.github.io/Portfolio/" title="Click On ME">
+   <img width="100%" src="https://www.flaticon.com/svg/static/icons/svg/2463/2463510.svg">
+   </a>
+</p>
 
 ---
 
-
-<p align="center">
-   <img width="100%" src="https://www.flaticon.com/svg/static/icons/svg/2463/2463510.svg">
-</p>
 <h1 align="center"> Here is What I'm Working On! </h1>
 <ul align="center">
    <li>🔭 I’m currently working on ASP.NET MVC ✅  </li>
