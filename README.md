@@ -14,12 +14,13 @@
   <img width="100%" src="https://www.flaticon.com/svg/static/icons/svg/2463/2463510.svg">
 </p>
 
-<p align="center">
-### Here is What I'm Working On!
-</p>
-	<h1 align="center"> -🔭 I’m currently working on ASP.NET MVC ✅ </h1>
+
+<h1 align="center"> Here is What I'm Working On! </h1>
+
+	 
 	<p>
 	<ul align="center">
+	   <li> -🔭 I’m currently working on ASP.NET MVC ✅  </li>  <li>
 	  <li>🌱 I’m currently learning .Net ✅ </li>  <li>
 	   <li>-👯 I’m looking to collaborate on Asp .Net ✅ </li>  <li>
 	  <li>-🤔 I’m looking for help with finding dream internships! ✅ </li>  <li>
