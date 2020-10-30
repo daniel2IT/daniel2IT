@@ -13,8 +13,8 @@
    <img width="100%" src="https://www.flaticon.com/svg/static/icons/svg/2463/2463510.svg">
 </p>
 <h1 align="center"> Here is What I'm Working On! </h1>
-<ul align="center" style="font-size:10vw">
-   <li>🔭 I’m currently working on ASP.NET MVC ✅  </li>
+<ul align="center">
+   <li  style="font-size:10vw">🔭 I’m currently working on ASP.NET MVC ✅  </li>
    <li>
    <li>🌱 I’m currently learning .Net ✅ </li>
    <li>
