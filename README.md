@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://pronouns.vercel.app" title="">
+   <a href="https://daniel2it.github.io/Portfolio/" title="">
    <img src="https://pronouns.vercel.app/!!! Howdy Ho !!!?gradient=grapefruit%20sunset" width="100%" height="64" alt="!!! Howdy Ho !!!">
    </a>
 </p>
@@ -48,10 +48,7 @@
    <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/0o48UoR.png" /></a><br>
  &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593;
 </div>
-#center{
-img:hover:after{
-display:none;}
-}
+
 
 
 ```html
