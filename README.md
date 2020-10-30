@@ -17,15 +17,17 @@
 <p align="center">
 ### Here is What I'm Working On!
 </p>
-	<p align="center"> -🔭 I’m currently working on ASP.NET MVC ✅</p>
-	<p align="center"> -🌱 I’m currently learning .Net ✅</p>
-	 <p align="center"> -👯 I’m looking to collaborate on Asp .Net ✅</p>
-	<p align="center"> -🤔 I’m looking for help with finding dream internships! ✅</p>
-	<p align="center"> -💬 Ask me about Anything ✅</p>
-	<p align="center"> -📫 How to reach me: [Linkedin_Profile](https://www.linkedin.com/in/danielvaskevic) ✅</p>
-	<p align="center"> -😄 Pronouns: He/Him ✅</p>
-	<p align="center"> -⚡ Fun fact: The first job i wanted when i was a little kid ----> hacker. ✅</p>
-
+	<h1 align="center"> -🔭 I’m currently working on ASP.NET MVC ✅
+	<ul>
+	  <li>🌱 I’m currently learning .Net ✅ </li>
+	   <li>-👯 I’m looking to collaborate on Asp .Net ✅ </li>
+	  <li>-🤔 I’m looking for help with finding dream internships! ✅ </li>
+	 <li>-💬 Ask me about Anything ✅ </li>
+	  <li>-📫 How to reach me: [Linkedin_Profile](https://www.linkedin.com/in/danielvaskevic) ✅ </li>
+	  <li>-😄 Pronouns: He/Him ✅ </li>
+	 <li> -⚡ Fun fact: The first job i wanted when i was a little kid ----> hacker. ✅ </li>
+	</ul>
+</h1>
 
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
