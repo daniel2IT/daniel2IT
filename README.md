@@ -23,23 +23,15 @@
 ---
 
 <h1 align="center"> Here is What I'm Working On! </h1>
-<ul align="center">
-   <li>🔭 I’m currently working on ASP.NET MVC ✅  <b></li>
-   <li>
+<ul align="center" style="line-height:180%">
+   <li><b>🔭 I’m currently working on ASP.NET MVC ✅  </b></li>
    <li><b>🌱 I’m currently learning .Net ✅ </b></li>
-   <li>
    <li><b>👯 I’m looking to collaborate on Asp .Net ✅ </b></li>
-   <li>
    <li><b>🤔 I'm looking for a "Dream Internships" ✅ </b></li>
-   <li>
    <li><b>💬 Ask me about Anything ✅ </b></li>
-   <li>
    <li><b>📫 How to reach me: [Linkedin_Profile](https://www.linkedin.com/in/danielvaskevic) ✅ </b></li>
-   <li>
    <li><b>😄 Pronouns: He/Him ✅ </b></li>
-   <li>
    <li><b>⚡ Fun fact: The first job i wanted when i was a little kid ----> HACKER. ✅ </b></li>
-   <li>
 </ul>
 
 
