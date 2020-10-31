@@ -23,7 +23,7 @@
 ---
 
 <h1 align="center"> Here is What I'm Working On! </h1>
-<ul align="center" style="line-height:180%">
+<ul align="center" list-style-type="square">
    <li><b>🔭 I’m currently working on ASP.NET MVC ✅  </b></li>
    <li><b>🌱 I’m currently learning .Net ✅ </b></li>
    <li><b>👯 I’m looking to collaborate on Asp .Net ✅ </b></li>
