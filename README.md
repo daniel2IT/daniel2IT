@@ -8,7 +8,7 @@
 
 <p align="center">
    <a href="https://daniel2it.github.io/Portfolio/" title="Click On ME">
-   <img src="ezgDaniel.gif" width="100%"">
+   <img src="ezgDaniel.gif" width="70%"">
    </a>
 </p>
                                          
