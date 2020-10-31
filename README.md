@@ -24,7 +24,7 @@
 
 <h1 align="center"> Here is What I'm Working On! </h1>
 <ul align="center">
-   <li><b> I’m currently working on ASP.NET MVC ✅  </li></b>
+   <li><b>🔭 I’m currently working on ASP.NET MVC ✅  </b></li>
    <li>
    <li><b>🌱 I’m currently learning .Net ✅ </li></b>
    <li>
