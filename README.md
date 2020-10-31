@@ -24,21 +24,21 @@
 
 <h1 align="center"> Here is What I'm Working On! </h1>
 <ul align="center">
-   <li>🔭 I’m currently working on ASP.NET MVC ✅  </li>
+   <li><b>🔭 I’m currently working on ASP.NET MVC ✅  </li></b>
    <li>
-   <li>🌱 I’m currently learning .Net ✅ </li>
+   <li><b>🌱 I’m currently learning .Net ✅ </li></b>
    <li>
-   <li>👯 I’m looking to collaborate on Asp .Net ✅ </li>
+   <li><b>👯 I’m looking to collaborate on Asp .Net ✅ </li></b>
    <li>
-   <li>🤔 I’m looking for help with finding dream internships! ✅ </li>
+   <li><b>🤔 I’m looking for help with finding dream internships! ✅ </li></b>
    <li>
-   <li>💬 Ask me about Anything ✅ </li>
+   <li><b>💬 Ask me about Anything ✅ </li>
    <li>
-   <li>📫 How to reach me: [Linkedin_Profile](https://www.linkedin.com/in/danielvaskevic) ✅ </li>
+   <li><b>📫 How to reach me: [Linkedin_Profile](https://www.linkedin.com/in/danielvaskevic) ✅ </li></b>
    <li>
-   <li>😄 Pronouns: He/Him ✅ </li>
+   <li><b>😄 Pronouns: He/Him ✅ </li></b>
    <li>
-   <li>⚡ Fun fact: The first job i wanted when i was a little kid ----> HACKER. ✅ </li>
+   <li><b>⚡ Fun fact: The first job i wanted when i was a little kid ----> HACKER. ✅ </li></b>
    <li>
 </ul>
 
