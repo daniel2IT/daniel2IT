@@ -51,6 +51,21 @@
 </div>
 
 
+```csharp
+using System;
+
+namespace daniel2IT
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Howdy World!!");
+        }
+    }
+}
+
+```
 
 ```html
 <!DOCTYPE html>
@@ -61,7 +76,7 @@
       <title>Greetings</title>
    </head>
    <body>
-      <h1> Welcome My Friend </h1>
+      <h1> Howdy World! </h1>
    </body>
 </html>
 ```
