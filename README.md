@@ -82,8 +82,8 @@ namespace daniel2IT
 </div>
 
 ---
-
-## My new projects will be here soon
-# &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595;
-
+<div align="center">
+<h2>My new projects will be here soon</h2>
+&#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595;
+</div>
 
