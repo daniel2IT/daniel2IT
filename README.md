@@ -24,13 +24,13 @@
 
 <h1 align="center"> Here is What I'm Working On! </h1>
 <ul align="center">
-   <li>🔭 I’m currently working on ASP.NET MVC ✅  </li>
+   <li>🔭 I’m currently working on ASP.NET MVC ✅  <b></li>
    <li>
    <li><b>🌱 I’m currently learning .Net ✅ </b></li>
    <li>
    <li><b>👯 I’m looking to collaborate on Asp .Net ✅ </b></li>
    <li>
-   <li><b>🤔 I’m looking for help with finding dream internships! ✅ </b></li>
+   <li><b>🤔 I'm looking for "Dream Internships" ✅ </b></li>
    <li>
    <li><b>💬 Ask me about Anything ✅ </b></li>
    <li>
