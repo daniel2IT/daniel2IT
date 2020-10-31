@@ -30,7 +30,7 @@
    <li>
    <li><b>👯 I’m looking to collaborate on Asp .Net ✅ </b></li>
    <li>
-   <li><b>🤔 I'm looking for "Dream Internships" ✅ </b></li>
+   <li><b>🤔 I'm looking for a "Dream Internships" ✅ </b></li>
    <li>
    <li><b>💬 Ask me about Anything ✅ </b></li>
    <li>
