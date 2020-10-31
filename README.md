@@ -15,8 +15,8 @@
 ---
 
 <p align="center">
-   <a href="https://daniel2it.github.io/Portfolio/" title="Click On ME">
-   <img width="100%" src="https://www.flaticon.com/svg/static/icons/svg/2463/2463510.svg">
+   <a href="https://daniel2it.github.io/Portfolio/" title="I'm a QR Code , You found a Secret! =)">
+   <img width="50%" src="Portfolio.gif">
    </a>
 </p>
 
