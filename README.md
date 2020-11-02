@@ -86,4 +86,3 @@ namespace daniel2IT
 <h2>My new projects will be here soon</h2>
 &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595;
 </div>
-
