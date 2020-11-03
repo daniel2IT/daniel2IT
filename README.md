@@ -34,7 +34,6 @@
    <li><b>⚡ Fun fact: The first job i wanted when i was a little kid ----> HACKER. ✅ </b></li>
 </ul>
 
-
 ---
 ---
 ---
