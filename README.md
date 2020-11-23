@@ -56,15 +56,15 @@ namespace daniel2IT
 
 ```html
 <!DOCTYPE html>
-<html lang>
-   <head>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Greetings</title>
-   </head>
-   <body>
-      <h1> Howdy World! </h1>
-   </body>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.0/angular.min.js"></script>
+</head>
+ <body>
+   <div ng-app>
+  	   {{"Hello" + " World"}} <br>
+   </div>
+ </body>
 </html>
 ```
 ---
