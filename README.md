@@ -76,12 +76,12 @@ namespace daniel2IT
 
 <div align="center">
  &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595; &#8595;<br>
-   <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/tXSoThF.png" title="Click On ME" /></a>
-   <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/P3YfQoD.png" title="Click On ME" /></a>
-   <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/yCsTjba.png" title="Click On ME" /></a>
-   <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/YckIOms.png" title="Click On ME" /></a>
-   <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/1AGmwO3.png" title="Click On ME" /></a>
-   <a  href="https://daniel2it.github.io/Portfolio/"><img src="http://i.imgur.com/0o48UoR.png" title="Click On ME" /></a><br>
+   <a  href="https://daniel2it.github.io/Demo_Portfolio/"><img src="http://i.imgur.com/tXSoThF.png" title="Click On ME" /></a>
+   <a  href="https://daniel2it.github.io/Demo_Portfolio/"><img src="http://i.imgur.com/P3YfQoD.png" title="Click On ME" /></a>
+   <a  href="https://daniel2it.github.io/Demo_Portfolio/"><img src="http://i.imgur.com/yCsTjba.png" title="Click On ME" /></a>
+   <a  href="https://daniel2it.github.io/Demo_Portfolio/"><img src="http://i.imgur.com/YckIOms.png" title="Click On ME" /></a>
+   <a  href="https://daniel2it.github.io/Demo_Portfolio/"><img src="http://i.imgur.com/1AGmwO3.png" title="Click On ME" /></a>
+   <a  href="https://daniel2it.github.io/Demo_Portfolio/"><img src="http://i.imgur.com/0o48UoR.png" title="Click On ME" /></a><br>
  &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593; &#8593;
 </div>
 
