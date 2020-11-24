@@ -55,7 +55,7 @@ namespace daniel2IT
 ```
 <p align="center">
    <a href="https://daniel2it.github.io/Demo_Portfolio/" title="Click On ME">
-   <img src="https://cdn.dribbble.com/users/635160/screenshots/1769104/dna_gif_dribble_1.gif" width="100%"">
+   <img src="https://cdn.dribbble.com/users/635160/screenshots/1769104/dna_gif_dribble_1.gif" width="100%" height=50% />
    </a>
 </p>
 
