@@ -16,7 +16,7 @@
 
 <p align="center">
    <a href="https://daniel2it.github.io/Demo_Portfolio/" title="I'm a QR Code , You found a Secret! =)">
-   <img width="50%" height ="250" src="Portfolio.gif">
+   <img width="30%" height ="280" src="Portfolio.gif">
    </a>
 </p>
 
