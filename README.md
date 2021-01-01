@@ -24,10 +24,9 @@
 
 <h1 align="center"> Here is What I'm Working On! </h1>
 <ul align="center">
-   <li><b>🔭 I’m currently working on Angular JS✅  </b></li>
-   <li><b>🌱 I’m currently learning .Net ✅ </b></li>
-   <li><b>👯 I’m looking to collaborate on Asp .Net ✅ </b></li>
-   <li><b>🤔 I'm looking for a "Dream Internships" ✅ </b></li>
+   <li><b>🔭 I’m currently working on ({} []) ✅  </b></li>
+   <li><b>🌱 I’m currently learning ({} []) ✅ </b></li>
+   <li><b>👯 I’m looking to collaborate on ({} []) ✅ </b></li>
    <li><b>💬 Ask me about Anything ✅ </b></li>
    <li><b>📫 How to reach me: [Linkedin_Profile](https://www.linkedin.com/in/danielvaskevic) ✅ </b></li>
    <li><b>😄 Pronouns: He/Him ✅ </b></li>
