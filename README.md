@@ -27,7 +27,6 @@
    <li><b>🔭 I’m currently working on ({} []) ✅  </b></li>
    <li><b>🌱 I’m currently learning ({} []) ✅ </b></li>
    <li><b>💬 Ask me about Anything ✅ </b></li>
-   <li><b>📫 How to reach me: [Linkedin_Profile](https://www.linkedin.com/in/danielvaskevic) ✅ </b></li>
    <li><b>😄 Pronouns: He/Him ✅ </b></li>
    <li><b>⚡ When I was a little kid I always dreamed of becoming hacker ✅ </b></li>
 </ul>
